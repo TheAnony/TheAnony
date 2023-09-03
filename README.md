@@ -1,14 +1,14 @@
 <h1 align="center">👋 Olá! Me chamo Anony, prazer ☕</h1>
 <h3 align="center">Sou um desenvolvedor iniciante que deseja usufruir da programação!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=theanony&label=Profile%20views&color=0e75b6&style=flat" alt="ihury" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theanony&label=Profile%20views&color=0e75b6&style=flat" alt="theanony" /> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theanony&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="ihury" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theanony&show_icons=true&theme=github_dark&locale=en" alt="ihury" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theanony&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="theanony" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theanony&show_icons=true&theme=github_dark&locale=en" alt="theanony" /></p>
 
 ***
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theanony" alt="ihury" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theanony" alt="theanony" /></a> </p>
 
 ***
 
