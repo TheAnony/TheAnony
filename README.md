@@ -1,10 +1,10 @@
 <h1 align="center">👋 Olá! Me chamo Anony, prazer ☕</h1>
-<h3 align="center">Um desenvolvedor iniciante que deseja usufruir da programação!</h3>
+<h3 align="center">Sou um desenvolvedor iniciante que deseja usufruir da programação!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theanony&label=Profile%20views&color=0e75b6&style=flat" alt="ihury" /> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theanony&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ihury" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theanony&show_icons=true&theme=dracula&locale=en" alt="ihury" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theanony&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="ihury" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theanony&show_icons=true&theme=github_dark&locale=en" alt="ihury" /></p>
 
 ***
 
